@@ -33,6 +33,11 @@ The purpose of this project is to explore the dataset, understand the distributi
 1. Survival Status Distribution
 2. Age Distribution
 
+
+
+Author Name - Priyanshu Tiwari 
+admission no. - 2026B01010824
+section - CSE 11
 ## Conclusion
 This project uses basic data analysis techniques to understand and summarize the Haberman dataset. It demonstrates data loading, statistical analysis, filtering, grouping, and data visualization using Python.
 
